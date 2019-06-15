@@ -1,3 +1,4 @@
+Comandos utiles de la terminal.
 Terminal:
 Ls: listar un elemento
 Ls -lha listar elementos de manera humana.
@@ -6,6 +7,10 @@ Touch: crear un archivo.
 cd - moverce dentro de un directorio ya sea . o ..
 pwd: para saber en qué directorio estás.
 vim “nombre de archivo”. entrar a un editor de texto plano vim.
+cp "nombre-del-archivo" "direcctorio-de-destino-del-archivo/ siempre se termina con un slash": copiar un archivo
+
+
+
 Git:
 Git init: crear un respositorio
 
@@ -45,4 +50,4 @@ Git pull
 Git merge
 Git checkout
 git clone: 
-
+|
