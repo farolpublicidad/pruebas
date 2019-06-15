@@ -1,0 +1,53 @@
+Comandos utile.
+
+Terminal:
+Ls: listar un elemento
+Ls -lha listar elementos de manera humana.
+Mkdir: crear un directorio.
+Touch: crear un archivo.
+cd - moverce dentro de un directorio ya sea . o ..
+pwd: para saber en qué directorio estás.
+vim “nombre de archivo”. entrar a un editor de texto plano vim.
+
+
+
+Git:
+Git init: crear un respositorio
+
+Git add “nombre de archivo” o “. para enviar todo”: Enviar archivos a stegen
+Git commit: Enviar mi archivo a la base de datos de git.
+Git --global: Hacer un cambio global.
+Git config: para configurar.
+git pull origin master: trae los últimos cambios de la rama master de github. Y lo funciona con la rama master.
+git remote add origin “http:github.io direccione de git hub”
+git remote -v: sirve para ver si ya estamos en la capacidad de traer cosas desde un repositorio remoto. Lo cual es con “fetch” (traer cosas) o con “push” (enviar cosas).
+git pull origin master: permite traer cosas del repositorio remoto sobre todo para poder conectar el repositorio remoto con en repositorio actual.
+git pull origin master --allow-unrelated-histories: permite fusionar ramas distintas dentro de git, es importante cuando se trata de traer un repositorio remoto a tu repositorio.
+
+git push origin master: 
+Envía todos los datos a GitHub.
+git pull origin master: 
+permite traer cosas del repositorio remoto sobre todo para poder conectar el repositorio remoto con en repositorio actual..
+git config -l: permite ver la configuración dentro del computador.
+git config --global user.name “nombre de usuario”
+git config --global user.email “email@delusuario.com”
+git show nombre-de-archivo: muestra los cambios que han habido dentro del archivo.
+git diff comitA comitB
+git checkout + ID del commit permite viajar en el tiempo.
+git commit -am: Incorpora los cambios sin pasar por git add.
+git branch “nombre-de-la-rama”: crea una nueva rama. Se hace de lugar donde está el comít al que quiere hacerse una rama.
+git merge “nombre de las ramas”: Fusiona las ramas
+git log: ver el historial de los commits.
+Con git status tambien se puede ver el nombre de la rama. 
+
+git checkout “nombre-de-la-rama”: Sirve para cambiar de rama.
+
+
+
+git log
+Git push
+Git pull
+Git merge
+Git checkout
+git clone: 
+
