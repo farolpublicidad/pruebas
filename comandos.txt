@@ -1,0 +1,8 @@
+Este es un archivo para escribir los comandos. Es de linux.
+
+pwd: ver la dirección
+sudo su: entrar en modo de super usuario
+sudo apt-get update: permite actualizar el sistema operativo con los nuevos repositorios.
+sudo apt-get upgrade: aún no tengo información de que se trata este comando
+sudo apt-get install git: instalar git.
+
