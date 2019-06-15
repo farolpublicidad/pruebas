@@ -8,6 +8,13 @@ cd - moverce dentro de un directorio ya sea . o ..
 pwd: para saber en qué directorio estás.
 vim “nombre de archivo”. entrar a un editor de texto plano vim.
 cp "nombre-del-archivo" "direcctorio-de-destino-del-archivo/ siempre se termina con un slash": copiar un archivo
+Este es un archivo para escribir los comandos. Es de linux.
+
+pwd: ver la dirección
+sudo su: entrar en modo de super usuario
+sudo apt-get update: permite actualizar el sistema operativo con los nuevos repositorios.
+sudo apt-get upgrade:  actualiza a la nueva version de las aplicaciónes.
+sudo apt-get install git: instalar git.
 
 
 
