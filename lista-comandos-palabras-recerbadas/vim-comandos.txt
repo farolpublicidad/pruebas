@@ -1,0 +1,48 @@
+En este archivo  se pondran los comandos de vim.
+
+Vim tiene dos estados, el estado normal, que es donde nos desplazamos pero no nos permite escribir, y el modo incertar donde nos permite incertar o escribir pero no nos desplazanos. Cuando se entra a vim, donde se está primero es en el modo normal, para entrar en el modo incertar, lo que se hace es escribir la letra 'i', la cual nos cambia al modo incertar, y para volver al modo normal se preciona la tecla Escape 'Esc'.
+
+'i' : sirve para poder entrar en el mode incertar o editar de texto de vim.
+'hjkl' : sirve para poder moverce dentro del documento de vim, estado normal. Donde 'h' isquierda, 'l' derecha, 'j' abajo, 'k' arriva.
+':q' : Es para salir, pero esto solo funciona en el modo incertar, ademas que cuando haces esto te saldrá una advertencia por que este modo de salir no guarda el archivo. Para forzar salida se preciona la tecla '!'.
+':q!' : Es para salir y forzar salir sin guardar los cambios.
+'Esc + 2 (shif + z)' permite guardar y salir.
+':w' : Se guarda el archivo.
+':wq' : Permite guardar y salir al mismo tiempo.
+
+
+Opciones de navegación para vim. Moverce dentro de un archivo.
+
+Para abrir un archivo podemos abrir vim, en la misma carpeta donde se encuentra el archivo que queremos editar, luego. En el modo normal, escribimos el comando ':edit nombre-de-archivo.txt'
+
+'w' : me permite saltar entre palabras y me va a colorcar el cursor en la primera letra de la palabra siguiente. Se puede usar en mayusculas o en minusculas, es indistinto.
+
+'e' : al final de la palabra en la que esté.
+'b' : me permite devolverme en una pabra, ir hacia atraz.
+'10 + j' : me permite bajar 10 lineas. Lo que quiere decir es que escribir un número antes precional la tecla para desplazarme equivale a precionar dicha tecla, la cantidad de veces, escrita en ese número. Por ejemplo '20 + h' : equivale a subir 20 líneas.
+'f + "letra"' : equivale a buscar la letra escrita despues de precionar la letra 'f', ojo, solo encuentra dentro de la misma líneai.
+'0' : El número '0' es para hubicarme al inicio de una línea.
+'$' : El simbolo de "peso o dolar" Es para ubicarme al final de una línea.
+'*' : Sirve para encontrar la siguiente palabra igual a la donde está el cursor
+'%' : Poniendo el cursor en la apertura del simbolo parentesis '(' sirve para encontrar cuando se cierra el simbolo parentesis ')'.
+'gg' : Ir al inicio del documento, y 'G' mayuscula, ir al final del documento.
+'"número por ejemplo 15" + G' : Un número en especifico más la 'G' mayuscula permíte ir a una línea en especifico.
+'o' : Precionar la letra 'o' estando en modo incertar, permite crear una nueva línea posicionar el cursor allí y entrar en el modo insertar.
+'O' : La letra 'O' mayuscula es similar a la 'o' minuscula solo que en véz de crear una linea despues, la crea antes de la línea donde está el cursos, y luego entra en el modo incertar.
+'x' : permite borrar caracteres donde está el cursor, pero sin entrar en el modo incertar. Y para borrar la letra antes, o la letra de la izquierda se usa la letra 'X' pero mayuscula.
+'r' : La 'r' minuscula permite cambiar el caracter donde está el curso sin entrar en el modo incertar.
+'dw' Pemite borrar toda una palabra, o una palabra desde donde está el cursor hasta el final.
+'dd' : Dos veces la 'd' minuscula permite borrar toda una línea. No obstante esta linea borrada, no está borrada, sinó que está cortada, es decir que está en memória y yo puedo pegarla en otro sitio.
+'p' : Con esta tecla puedo pegar la línea cortada con la tecla 'dd'.
+'dw' : corta una palabra.
+'yy' : copia una línea.
+'"número de lineas que se quiere copiar" + yy' : copia varias líneas a la vez.
+'.' : El punto permite repetir el ultimo comando hecho. Por ejemplo 'wd' corta una palabra y con el '.' corta la siguiente palabra.
+'v' : Permite entrar en el modo visual, el cual me permite seleccionar con las teclas de navegación 'hjkl' y con la tecla 'd', puedo opor ejemplo cortar para luego pegar con 'p'.
+
+
+Para buscar y reemplazar:
+'/' : Es para buscar alguna palabra y si quiero buscar la siguiente coincidencia, preciono enter y la 'n' minuscula. Y para regresar se usa 'N' mayuscula.
+'/o$' : con eso se busca todas las lineas que terminen con la letra 'o', lo que quiere decir que se usa expreciones regulares. Y claro, luego para buscar la siguiente se usa la letra 'n'.
+
+¿Que es un archivo ?

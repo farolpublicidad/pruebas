@@ -1,4 +1,5 @@
 Comandos utiles de la terminal.
+
 Terminal:
 
 Ls: listar un elemento
@@ -53,4 +54,5 @@ git checkout “nombre-de-la-rama”: Sirve para cambiar de rama.
 
 
 git clone: 
-|
+
+Otros: Para poder recortar una parte de la pantalla, al menos en linux, se preciona 'shift + Impr Pant'
