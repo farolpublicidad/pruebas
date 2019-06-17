@@ -37,7 +37,11 @@ right:
 background-image:
 top:
 
-
+'display: flex;' es un estilo que sirve para poner cosas que estan ordenadas verticalmente, ahora se ordena horizontalmente.
+'color: gray' : Da color al texto dentro de la etiqueta, en este caso es el color gris.
+'background: orange;' : Da color a la caja dentro de la etiqueta, en este caso le dió el color naranja.
+'background-color: aqua;' : Parece que tambien dá estilos, aunqué creo que es mas fuerte que solo 'background' y parece que si se le aplica a la etiqueta 'body' en realidad se le aplica a toda la pantalla del sitio web.
+font-family: 'Allerta', sans-serif;' : Incerta la tipografía y si caracteristica, antes hay que hacer un enlace en la etiqueta 'html' del 'head'.
 
 Estiquetas html___
 
@@ -61,3 +65,6 @@ stylesheet
 url
 id
 class
+
+
+
