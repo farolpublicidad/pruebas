@@ -44,5 +44,9 @@ Para abrir un archivo podemos abrir vim, en la misma carpeta donde se encuentra 
 Para buscar y reemplazar:
 '/' : Es para buscar alguna palabra y si quiero buscar la siguiente coincidencia, preciono enter y la 'n' minuscula. Y para regresar se usa 'N' mayuscula.
 '/o$' : con eso se busca todas las lineas que terminen con la letra 'o', lo que quiere decir que se usa expreciones regulares. Y claro, luego para buscar la siguiente se usa la letra 'n'.
+':%s/pabra-a-reemplazar/palabra-que-reemplaza/g' : se usa para buscar y reemplazar, es necesario la 'g' minuscula al final para que busque en todo el documento, sin ella solo se buscará en la linea donde está el cursor. Con este comando se reemplaza todas las palabras que encuentra en el documento.
+'u' : Con la 'u' minuscula nos permite deshacer el ultimo cambio que se haya hecho.
+
+
 
 ¿Que es un archivo ?
