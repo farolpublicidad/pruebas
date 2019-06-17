@@ -1,0 +1,63 @@
+/** {
+  width: tamaño;
+  height: tamaño;
+  padding: 10px;
+  padding-top: 10px;
+  padding-right: 13px;
+  padding-left: 15px;
+  padding-bottom: 5px;
+  padding: 10px 13px 5px 15px;
+  margin: 10px;
+  margin-top: 10px;
+  margin-right: 13px;
+  margin-left: 15px;
+  margin-bottom: 5px;
+  margin: 10px 13px 5px 15px;
+  border: 2px solid red;
+}*/
+
+Hay otros estilos
+font-family:
+margin:
+border:
+padding:
+width:
+border-radius:
+height:
+margin-bottom
+color
+background
+background-color
+float:
+position:
+padding-left:
+margin-left:
+display:
+right:
+background-image:
+top:
+
+
+
+Estiquetas html___
+
+title
+nav
+canvas
+p
+style
+div
+footer
+ul
+ol
+img
+figure
+
+
+Atributos____
+src
+linck
+stylesheet
+url
+id
+class
