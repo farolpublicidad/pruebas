@@ -1,0 +1,45 @@
+ En este archivo irán los comandos de mysql.
+
+Un tutoríal que parece muy interesante y útil para instalar y que me ha funcionado es este. https://www.youtube.com/watch?v=hx-nGKFVixA
+
+'show databases:' : Indica cuantas bases de datos hay.
+Hay dos tipos de tablas en las bases de datos.
+
+InnoDB
+MyiISAM
+
+Uno es mas nueva y robusta es decir se puede recuperar los datos, miestras que la otra es mass antigua y rápida.
+
+'create database "farol_operation";' : Es un comando que sirve para crear una base de datos.
+'create database if not exists farol_operation;' : es para crear esa base de datos si no existe. Si se le pone sin el 'if not exists' no me responde con un 'Query OK' sino con un 'ERROR', lo cual es muy diferente.
+'use "farol_operation";' : Es un comando que me permite usar una base de datos. Esto es conveniende despues de hacer un 'show databases;'
+'show tables;' : Este comando funciona cuando se está dentro de una base de datos despues de haber entrado con el comando 'use "farol_operation";' y lo que me permite ver es la cantidad de tablas dentro de esa base de datos.
+
+Toda tabla necesita u 'ID'.
+Las los nombres que se ponen a las tablas es el plural de lo que va almacenar.
+
+Los nombres de las palbras recerbadas que van a mysql van en MAYUSCULAS,  mientras que los nombres que le asignemos serán en minúsculas. 
+'INTEGER' : Quiere decir entero.
+'PRIMARY' : Quiere decir que será una llave primaria.
+'AUTO_INCREMENT' : Agrega un número autoincrementable, pero el número no es la cardinalidad. Pues solo agrega el número siguiente al número que se guardó.
+
+En muchos casos es mejor no almacenar el dato, sinó la referencía númerica a ese dato.
+'VARCHAR("2")' : Es un tipo de dato que permíte almacenar texto, pero tiene la particularidad de que se le asigna la cantidad maxima de caranteres que se puede almacenar.
+'NOT NULL' : Tipo de dato que no permíte almacenar tipos de datos nulos.
+'UNSIGNED' : No hay datos de este tipo de dato.
+'COMMENT 'ISO 639-1 Language',' : Es un comentario que no es visto por nadie más que por quien vé la estructura de la base de datos.
+Una imagen o un binario nunca se guarda en una base de datos, allí solo se guarda en un 'VARCHAR' una 'url' hacia donde esa imagen está almacenada.
+'price DOUBLE(6,2),' : Es un tipo de dato numerico el cual el primer argumento dice cuantos dijitos se va almacenar, y el segundo dato indica cuantos de estos datos van a ser decimales. En este dato númerico se puede operar con el, se puede sacar el promedio, la desviacion estandar y cualquier cantidad de cosas.
+'TINYINT' : No hay datos. Dicen que estos son banderas.
+'TEXT' : Tipo de dato que permite poner tanto texto como se decee.
+'MYSQL' Permite mayusculas y minusculas tanto en palabras recervadas como en nombres de tablas y columnas, una buena practica es que todas las palabras recerbadas del lenguaje 'SQL' vayan en mayusculas mientras que los nombres de columnas y tablas van en minuscula.
+
+'mysql> select database();' Estando dentro de una base de datos, o usando una base de datos, permite ver dentro de que base de datos estamos.
+'drop table "author"' : El comando 'drop' borra una tabla. Una vez borrado no hay manera de recuperar la tabla sin tenes que pagar miles de millones de dolares.
+
+
+
+
+Para salir de cuando estamos haciendo uso de una base de datos uso 'Ctrl + D'. 
+
+
