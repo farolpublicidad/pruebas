@@ -12,7 +12,13 @@ vim “nombre de archivo”. entrar a un editor de texto plano vim.
 cp "nombre-del-archivo" "direcctorio-de-destino-del-archivo/ siempre se termina con un slash": copiar un archivo
 Este es un archivo para escribir los comandos. Es de linux.
 mv "Nombre de destino de archivo". Mover o renombrar archivo o direcctorio.
-
+'ls -lha ..' : permite listar el direccotio anterior a donde se está, con este comando al parecer se puede listar cualquier dirección que se ponga.
+'pushd' : cuando se entra a un directorio a travez de este comando en vez de 'cd' se puede volver al direcctorio anterior con el comando 'popd
+'popd' : Permite volver al directorio de donde se salío haciendo 'pushd'.
+'open' : Con este comando se puede abrir un archivo, con el software que le sea predeterminado.
+'more' : permite ver las primeras líneas de un documento.
+'cat' : imprime todo el documento en la terminal, y en todo caso permite ver las ultimas líneas del archivo.
+'cat > peliculas.csv' : 
 
 sudo su: entrar en modo de super usuario
 sudo apt-get update: permite actualizar el sistema operativo con los nuevos repositorios.
@@ -56,3 +62,4 @@ git checkout “nombre-de-la-rama”: Sirve para cambiar de rama.
 git clone: 
 
 Otros: Para poder recortar una parte de la pantalla, al menos en linux, se preciona 'shift + Impr Pant'
+
