@@ -32,6 +32,7 @@
 .lienzo{
     border: 5px solid green;
     border-radius: 30px;
+    background: blue;
 }
 
 .cajita{
