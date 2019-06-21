@@ -1,0 +1,27 @@
+.body{
+	width: 1000px;
+	height: 940px;
+	border: 10px solid red;
+	background: #151526;
+	border-radius: 50px
+}
+.titulo-principal{
+	border: 5px solid #B2DD8F;
+	width: 800px;
+	height: 150px;
+	color: #A2F0F0;
+	text-align: center;
+	display: inline-block;
+	position: relative;
+	padding: 30px 0px 0px 0px;
+	margin: rgb(52, 114, 28)
+	border-radius: 10px;
+}
+.dividido{
+	width: 200px;
+	height: 200px;
+	border: 5px solid green;
+	padding: solid green; 
+	margin:;
+	border-radius: 50px;
+}

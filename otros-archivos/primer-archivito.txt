@@ -1,0 +1,3 @@
+Este es un archivo txt.
+
+Se supone que se puede escribir muchas cosas aquí.
