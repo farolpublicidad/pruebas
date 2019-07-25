@@ -1,0 +1,20 @@
+body{
+    color: brown;
+    background: yellow;
+    background-color: aqua;
+    border: 10px solid blue;
+    width: 500px;
+    height: 1500px solid;
+    border-radius: 15px;
+    padding: 0px 20px 10px 20px;
+}
+
+.save{
+    font-family: 'Courier New', Courier, bold;
+    color: blueviolet;
+    font-size: 20px;
+    background-color: orange;
+    height: 30px;
+    width: 300px;
+    border-radius: 50px;
+}
