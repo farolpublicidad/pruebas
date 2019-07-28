@@ -1,0 +1,3 @@
+El objetivo de este archivo es crear un conjunto de programas a la manera de funciones que puedan ser invocadas por mediante una función.  
+
+Él menú de el sitio web. Debe ser una función, con su css en línea. Y con el objetivo de que sea dinámico y que se puedan añadir siguientes categorías. Debe ser un menú donde lo principal se tenga en el menú y lo siguiente se acumule en un menú desplegable.
