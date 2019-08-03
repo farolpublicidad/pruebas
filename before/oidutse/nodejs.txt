@@ -1,0 +1,15 @@
+Este archivo tiene como objetivo aprender de NODEJS
+
+
+¿Que es nodejs?
+¿Es un servidor?
+¿Como se instala nodejs en un servidor?
+¿Por que no puede instalarse nodejs en un hosting compartido?
+¿En un servidor pueden ejecutarse Javascript a travez de nodejs y php a la vez?
+¿Cual es el motor interprete de php?
+¿Puedo incertar jascripts en wordpress?
+¿Donde consigo hosting gratuito para todos mis proyectos web?
+¿Qué es todo lo que sé de nodejs?
+
+¿Que es nodejs?
+Es un motor interprete de javascript que permite escribir javascript fuera del navegador, en por ejemplo en el servidor, o en otros entornos.

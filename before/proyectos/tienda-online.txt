@@ -1,0 +1,11 @@
+Este es un proyecto con la Marca Farol Publicidad para mostrar en mi portafolio. Será una tienda electronica.
+
+En el frontend, lo normal, Html5, Css3, Javascript. Luego en el bakend Php, un servidor Apache, base de datos Mysql o MariaDB. Sistema de gestion de contenidos Wordpres.
+
+Se venderá en esta tienda productos como ropa. En este caso lo que haré será copiar nos números u las imágenes de las otras páginas web de ropa del Perú, y pondré sus números de telefono y sus correos y su informacción de contacto. De esas empresas. Entonces ese será la página web, por que lo que voy ha hacer es como que copiar todo el contenido de todas las páginas web de ropa del Perú y ponerlos en una sola página, y luego poner un sitio donde se pueden hacer comentarios.
+
+Será como un Alibaba pero en vez de que las personas se suscriban en la página web, seré yo quien los suscriba, opteniendo los datos de las páginas de facebook o las páginas web de internet. Para monetizar lo haré a travez de Publicidad con google Ads. Esto es como un portafolio para poder entrar en las empresas por la puerta grande. Eso espero.
+
+En el frontend de ser posible debo usar Reacjs.
+
+El diseño puede ser una copia de Alibaba, pero usando los colores de Farol publicidad.

@@ -1,0 +1,358 @@
+INTRODUCCIÓN A PHP
+
+¿Qué es php?
+
+¿Cuales son sus atributos?
+
+¿Cuales son sus funciones?
+
+¿Como se llegó a la conclución de php?
+
+Php______
+
+Es un lenguaje de programación interpretado que se usa sobre todo para desarrollo web en el backend. Para hacer desarrollo web en local se usa Xamp que es un entorno de desarrollo que en si tiene un conjunto de tecnologías que incorporan, servidor web (apache), base de datos (maria db, similar a mysql), interprete de php.
+
+Este entorno de desarrollo es solo para desarrollo. Para implementar en el servidor se usan otras tecnologías.
+
+Cuando se instala Xamp luego se puede ver en la dirección localhost en el navegador. O tambien en la dirección 127.0.0.1 Que es la dirección de la ip del propio navegador.
+
+Luego 
+
+Parece que en todos los lenguajes de programación tiene todos siempre estos mismo elementos.
+
+Antes de decirlos, Freddy dijo que programas consiste en 4 cosas fundamentales.
+- Ciclos
+- Funciones
+- Variables
+- Condicionales
+Y si algo más hay que añadir sería el: flujo de la información.
+- Flujo
+
+Luego en los lenguajes tambien hay.
+
+Programación estructurada
+Programación orientada a objetos
+Programación funcional
+
+Luego en los lenguajes tambien hay.
+
+Funciones
+Ciclos
+Variables
+Condicionales
+Arreglos
+Tipos de datos
+While vs. Do While
+Operadores
+Constructores y metodos
+Herencia
+Polimorfismo
+Interfaces
+Namespases
+Formularios
+Como incertar datos en bases de datos
+Validación
+Creación de usuarios
+Autenticación de usuarios
+Formularios de login
+Manejos de seciones
+Variables de entorno
+Hacer deploy
+
+
+
+
+Luego hay que entender el lenguaje. Pero yo no quiero entender el lenguaje, lo que yo quiero es hacer mi aplicación. Esto es bien.
+
+
+
+
+______________________________________________________________________________________________________________________________________________
+Arrancar/detener XAMPP desde terminal, el panel de control XAMPP, o automáticamente al iniciar Linux
+SEP 15
+
+Publicado por Greiscool
+  En el artículo   Instalar XAMPP (servidor web) en Linux    además de la instalación de XAMPP se indica como arrancar y detener el servicio desde consola. Pero podemos realizar estas operaciones colocando un lanzador en el escritorio, o bien desear que se arranque automáticamente al iniciar el sistema.
+
+Artículo copiado de internet. https://lavidaestux.wordpress.com/2011/09/15/arrancardetener-xampp-desde-terminal-desde-el-panel-de-control-xampp-o-automaticamente-al-inicio-en-linux/
+Por lo tanto podemos gestionar el arranque/parada de XAMPP en Linux de las formas siguientes:
+
+ 
+
+♦ DESDE LA TERMINAL
+
+   Iniciar los servicios XAMPP
+
+sudo /opt/lampp/lampp start
+
+   Detener los servicios XAMPP
+
+sudo /opt/lampp/lampp stop
+
+——————————————————————————————————————————–
+
+En realidad desde terminal podemos gestionar todos los servicios instalados con XAMPP.
+
+Tecleando en la terminal el siguiente comando
+
+sudo /opt/lampp/lampp
+
+ se  nos muestran todos los servicios y su descripción
+
+Usage: /opt/lampp/lampp  >
+
+    start                  Start XAMPP (Apache, MySQL and eventually others)
+    startapache       Start only Apache
+    startssl              Start only SSL support
+    startmysql         Start only MySQL
+    startftp             Start only ProFTPD
+
+    stop                  Stop XAMPP (Apache, MySQL and eventually others)
+    stopapache        Stop only Apache
+    stopssl               Stop only SSL support
+    stopmysql          Stop only MySQL
+    stopftp              Stop only ProFTPD
+
+    reload                Reload XAMPP (Apache, MySQL and eventually others)
+    reloadapache     Reload only Apache
+    reloadmysql       Reload only MySQL
+    reloadftp           Reload only ProFTPD
+
+    restart               Stop and start XAMPP
+    security             Check XAMPP’s security
+
+    php5                  Activate PHP5
+    phpstatus          Which version of PHP is active?
+
+    backup              Make backup file of your XAMPP config, log and data files
+    panel                Starts graphical XAMPP control panel
+
+—————————————————————————————————————————————-
+
+ 
+
+♦ DESDE UN LANZADOR EN EL ESCRITORIO
+
+Pulsamos sobre el escritorio el botón derecho del ratón, elegimos   Crear un lanzador   y lo configuramos
+
+Tipo:          Aplicación
+
+Nombre:    XAMPP   (ponemos el nombre que mostrará el lanzador)
+
+Comando:   gksu /opt/lampp/share/xampp-control-panel/xampp-control-panel
+
+Comentario:   Arrancar/Detener servicios XAMPP   (no es absolutamente necesario cubrir este campo)
+
+____________________________________________________________________-
+
+Para poder ejecutar un archivo PHP en el navegador primero se tiene que encender el servidor. En este caso, php usa el servidor Apache, la base de datos Mysql o MariaDB y el interprete de Php, cuyo nombre no está claro. 
+
+Para poder hacer que el servidor de Php lea algo del códico se tiene que colocar el código en una carpeta que se llama htdocs, que es una carpeta exclusiva del entorno de desarrollo Xammp.
+
+En el curso el profesor usa el un archivo html ya hecho, me pregunto como lo usará.
+
+¿Qué es una variable?
+Es como una cajita donde se almacena un valor. Este valor va a poder ser modificado despues, van a poderlo utilizar en operaciónes entre otras muchas cosas. En php son dinamicas y debilmente tipadas.
+
+El de debilmente tipadas se refiere a que no se especifica en php el tipo de dato de la variable, entonces puede esto causar que se sumen cadenas de texto con números.
+
+Cuando en un archivo de Php se crea un bloque con un '<?php xyz xyz xyz ?>' y despues de cerrarce se crea otr bloque, mientras estén en ese archivo, todas las variables de todos los bloques se comparten.
+
+Por esta razon, cuando se trata de convinar el codigo php con html, lo que se hace es al inicio del documento, lo que se hace es crear un bloque de php, y allí se inicializan variables y todo lo que se nececita, y luego mas abajo cuando se está dentro de la etiqueta de html, se van poniendo lo que se vaya necesitando, pero ya extrayendo datos del primer bloque de php.
+
+Para inicializar una variable en PHP, lo que se hace es iniciar con el simbolo de moneda '$', luego inmediatamente despues, sin espacio, se coloca el nombre de la variable. Hay que ver que un nombre valido en php, puede iniciar tanto con una letra 'a' como con un guion bajo '_' .
+
+En php, las lineas se cierra con punto y coma ';'.
+
+<?php
+  $var1 = 1;
+?>
+
+En el ejemplo mostrado, se está inicializando una variable 'var1' y se le está asignando el valor '1'. Para añadir una variable de tipo 'string' hay que hacerlo con las comillas simples. <<''>>. 
+
+<?php
+  $var1 = 1;
+  $name = 'Farol Publicidad';
+?>
+
+En este ajemplo se ha adicionado la variable de tipo 'string' <<'Farol Publidad'>> la cual luego se puede incertar en un 'html' por ejemplo.
+
+<DOCTYPE html>
+<html>
+    <head>
+        <title>Farol Publidad</title>
+    </head>
+    <body>
+        <h1> <?php echo $name; ?></h1>
+    </body>
+</html>
+
+En este ejemplo hecho con html, se puede vere que en el navegador se imprimirá en el 'h1', el nombre <<'Farol Publicidad'>> Por que el valor de la variable se extrajo de el bloque de arriva.
+
+No obstante si mas arriva se modificó el valor de la variable, ese último valor será aquello que se impríma. Por ejemplo.
+
+<?php 
+  $va1 = 1;
+  $name = 'Farol Publicidad';
+
+  $name = 'El gran Farol';
+?>
+
+En este caso lo que se ha hecho es cambiar el valor de la variable, y en todo caso lo que se imprimirá en el 'html' es <<'El gran Farol'>>
+
+
+Se dice que 'php' no tiene un sistema de tipos estático. Es decir que cuando declaramos un variable, simplemente lo declaramos sin indicar de que tipo será. Otros leguajes de programación se tienen que indicar el tipo de dato que almacenará la variable. 
+
+Los tipos de variables, son: Cadena, entero, punto flotante. 
+
+En los lenguajes donde se le tiene que indicar el tipo de dato, solo se puede almacenar ese tipo de dato. En cambio en 'php' cuando se cambia el valor de la variable, tambien se le puede cambiar el tipo de dato. En el ejemplo anterior se puede por ejemplo cambiar el tipo de dato, al cambiar el valor de la variable.
+
+<?php 
+  $var1 = 1;
+  $name = 'Farol Publicidad';
+
+  $name = 123;
+?>
+
+Y lo que se imprimirá en pantalla serán ya números y no letras. 
+
+Cuando queremos ver que está pasando con una variable, lo que lanzamos es la funcion 'var_dump($nombre_de_la_variable);' esto nos va a imprimir el tipo de dato de la variable, la longitud de la variable, y aquello que contiene la variable. Por ejemplo
+
+<?php
+  $name = 'Farol Publicidad';
+  var_dump($name);
+?>
+
+Lo que nos imprimirá es:
+
+string(16)"Farol Publicidad"
+
+ESTAMOS EN LA CLASE DE Variables, tipos de datos y cadenas.__________________________________
+
+El profesor dice que hay dos tipos de cadenas. ¿Por que? Cadenas. ¿Se refiera a cadenas de texto?. Cuando habla de tipos, debe referirce a tipos de datos, como las cadenas son tipos de datos, entonces se refiere a que hay dos tipos de datos dentro de los tipos de datos cadenas.
+El profesor menciona que hay de dos tipos, cadenas con comillas simples y cadenas con comillas dobles. ¿Pero que tipo de diferencia puede haber en ellos? si lo único que los diferencia son las comillas, está claro que al declarar una variable, y esta variable va a ser un string o cadena de texto. Este estring debe estar contenido dentro de comillas. Luego hasta ahora me había parecido indistinto usar comillas simplos o dobles, y la diferencia radicaba en lo estetico. Pero ahora el profesor hace una distinción. ¿Será posible que las comillas que encierran las cadenas declaran tipos distintos de datos?. Luego, un string, siempre será un string, esto quiere decir que se ponga una comilla u otra, siempre los tipos de datos o los caracteres permitidos dentro de este tipo de datos serán todos los posibles dentro de la nomenclatura ACCI. Por cierto que es ACCI, ¿es una nomenclatura? ¿Es una convención? ¿Otra cosa?. ¿Que diferencia a estas cosas?. 
+
+Según el profesor, la diferencia fundamental de los dos tipos de comillas esque las comillas simples <<''>> el lenguaje php, solo lo trata como string y no opera nada, o no trata de interpretar. Mientras que con las comillas dobles, el lenguaje intenta interpretar lo que hay dentro. Entonces para poden concatenar strings o cadenas de textos, cuando se usan las comillas simples el operador de concatenación << . >> es decir el punto, se debe colocar por fuera del string, lo mismo con la variable con la que se quiere concatenar. Con las comillas dobles, solo se coloca la variable con la que se va a concatenar dentro de las comillas está debe ir en el lugar donde debe hacer la concatenación. El operador de concatenación no se usa. Con las comillas dobles, php trata de leer lo que hay dentro y trata de operar con él.
+
+Supongo que esto debe tener muchas utilidades, pero ¿Cuales?, ¿donde se puede usar esto de manera muy diferenciada? tal vez las comillas simples debe ser la norma al usarlo, y cuando se quiere concatenar se debe usar el operador de concatenación y luego la variable, esto por que así el código es mas legible. Posiblemente, me encuentre en el mundo laboral con mucho código que tenga comillas dobles y dentro variables. Pero ahora que lo noto, tal vez sea un poco conveniente usar comillas dobles en lugares donde hay textos extensos y se tenga que poner las variables en los lugares que corresponda y no se quiera, hacer el texto, luego cerrar comillas simples, usar el operador de concatenación, despues la variable, luego otra vez habrir comillas simples y texto, luego cerarlas, operador, variable, abrir, texto, cerrar, operador, etc, etc. No obstante, me parece que las comillas simples y ese trabajo de habrir y cerrar es mejor, por que puede verse mas claramente, donde está una variable y donde meramente texto. Por lo pronto me quedo con comillas simples.
+
+Me pregunto si en el mundo real, el código php, correrá junto con el código html. Es decir en el mismo archivo. Tambien me pregunto si cuando se usa reac, se supone que el código que usa Reac, se va a tener que poner en en mismo archivo index.php. Por que pues nose. Luego Esearchivo podría tener miles y miles de líneas de código. Y será dificil de mantener. Luego si por ejemplo se va a crear una app como Google Docs, el código de Backend, va en el mismo archivo index.html, es decir en el frontend. Eso haría el archivo extensicimo. Luego en el tema de componentes reactivos, que consiste en que partes de una página web son aísladas de otras partes de las páginas, es decir tenemos componentes reactivos. Y como se inserta el código backend dentro de estos componentes reactivos, el código ¿backend tambien es reactivo?. ¿Cual es el framworc o librería que crea los componentes reactivos?, es 'Reac', 'Redux'. Luego en el tema de programación orientada a objetos, parece que se tema el temas de crear clases que son objetos, que a esos objetos se le va asignando valores los cuales serían las instancias de ese objeto. No obstante, el tema de los tipos de datos string con comillas simples y comillas dobles donde la diferencia radica en que en unó se opera en el tipo de dato string <<"">> y en el otro se deja string sin tocarlo <<''>>, ¿influye en algo en la programación orientada a objetos?
+
+Ejemplos. 
+
+<?php
+  $lastName = 'Publicidad';
+  $name = 'Farol ' . $lastName;
+?>
+<?php
+  echo $name;
+?>
+Esta es la forma para que se imprima <<Farol Publidad>> usando comillas dobles.
+
+
+<?php
+  $lastName = 'Publicidad';
+  $name = "Farol $lastName";
+?>
+<?php
+  echo $name;
+?>
+Esta es la forma para que se imprima <<Farol Publidaid>> usando comillas simples. Si en este caso usaramos las comillas simples, lo que se imprimiría sería el nombre de nuestra variable. <<Farol $lasName>>. 
+
+<?php
+  $lastName = 'Publicidad';
+  $name = 'Farol ' . $ lastName;
+?>
+
+
+________________Tipos de datos en PHP_________________
+Lo escrito es el título de la lección/documento a aprender.
+
+Hay varios tipos de datos en php. Pero los mas importantes o mas usados son. boolean, integer, float, string, array, y NULL.
+Estos son los tipos de datos. Antes de seguir leyendo, por lo que puedo suponer es que 'boolean' se trata de un tipo de dato que es verdadero falso, es decir solo puede tener dos valores. Verdadero o falso. Es o será muy importante con las tablas de verdad y los temas lógicos, por que se vazaran a que un dato es verdadero o nó, y eso es muy importante. Y según lo verdadero o falso se pueden usasr muchos condicionales, los 'if' o los 'elce'. Luego al declarar que una variable solo tiene o va a tener este tipo de dato, nos aseguramos de que por algún desliz en el código, esta variable vaya a tener otro tipo de dato. Esperemos, pues al ser 'php' un lenguaje debilmente tipado o un lenguaje dinamicamente tipado, pues puede que se pase por alto que este es un dato de tipo voleado o nó.
+
+Tenemos los tipos de datos 'integer'. Son tipos de datos enteros, y esto se refiere a que solo va aceptar números tanto positivos o negativos pero que no tendran decimales. Posiblemente en 'php' y en otros lenguajes de programación, para resolver operaciones matemáticas las variables no adminten operaciónes como sus valeores, sinó solo o enteros o decimales, el cual es el siguiente dato.
+
+'float' según Freddy Vega, el tipo de dato flotante, es o son los decimales, ahora un flotante son solo los decimales o son el entero con sus decimales.
+
+'string' cadenas de textos de letras, las cuales ya supuse un poco mas arriva. 
+
+'array' me pregunto que tipo de dato será esto, pero parece ser un arreglo es decir una variable que es sí puede guardar varias variables, ypuede dar cierto valor o imprimir cierto valor dependiendo de la forma en que es invocada la variable, o mejor, dependiendo el valor del arreglo que es pedido por algúna palabra recervada. Tal vez este tipo de variable sea de las mas útiles, y es como tener una variable de variables.
+
+Y por último tenemos 'NULL' es el tipo de variable nulo, este tiene o no tiene valor, este tipo de variable admite no tener valor. Pero no es un valor vacio, sino es no tener valor. Me pregunto como puede usarse este tipo de variable.
+
+
+Para declarar el tipo de variable se usa.
+<?php
+  $a = false;
+  $b = true;
+?>
+
+Así se declara el tipo de dato boolean. Y claro como no es un string, el valor se le dá sin comillas.
+
+'callable' es un tipo de dato que tiene dentro una función.
+
+
+Hay otros tipos de datos, y se puede profundizar mas aquí, pero nosotros pasamos debido a seguir avanzando.
+¿Qué tiene que ver la matemática discreta con la programación?
+
+
+____________________________________________________________________________________________________________________________________________________Arreglos___________________________________________________________________________________________________
+
+Los arreglos, como ya se especuló, nos permite guardar mas de un solo valor dentro de una variable.
+
+Para declarar un arreglo, se declara la variable, y en la parte donde van a ponerce los valores se habren corchetes cuadrados '[]', dentro de los cuales se ponen los valores separados por comas. Para acceder a estos valores se escribe el nombre de la variable, seguido de el indice. Cuadon se colocan los valores de la variable, estos se indexan numéricamente.
+
+Sabemos que 'php' empieza a contar desde cero '0', entonces el primer valor es llamado con el número cero '0', el segundo con el uno '1', y así sucesivamente.
+
+<?php
+  $miarreglo = [
+  'PHP developer',
+  'Pyton dev',
+  'Devops'
+]
+?>
+
+Luego
+
+var_dump($miarreglo[0]);
+
+Esto va imprimir <<-- string(13) "PHP developer" -->> y así con el segúndo, pero si hacemos. 
+
+var_dump($miarreglo);
+
+Nos va a imprimir <<-- array(3){[0]=>string(13)"PHP developer"[1]=>string(10)"Pyton Dev"[2]=>string(6)"Devops"} -->>
+
+Luego se puede esto imprimir con palabras reservada 'echo' en el html, en donde corresponda.
+
+No obstante, tambien se puede decir que se puede cambiar el indice de los valores de los arreglos.Es decir no necesariamente los indices deber ser numéricos. Esto debido a que 'php' usa sistemas de ordenar los datos como otro lenguaje llamado mapa. Es decir que no es especificamente indice valor; sino llave valor. Por tanto, es moficicable el índice de los valores de un arreglo. Este indice o núeva llave, puede ser otanto 'integer' como 'string'
+
+Los arreglos nos permiten crear arreglos anidados, es decir arreglos, dentro de arreglos. Como esto se puede volver complejo y la dificultad de saber a que valor es a lo que vamos a llamar, si al del arreglo, o al del arreglo dentro del arreglo. Entonces Para esto puede ser útil cambiar la manera es que indexan los valores de los arreglos.
+
+Con 2 diagonales se comenta una línea de código. '//'.
+
+Para hacer arreglos anidados.
+
+<?php
+
+  $miarreglo = [
+    [
+      'title' => 'PHP developer',
+      'descripcion' => 'This is an awesome jop!!!'
+    ],
+    [
+      'title' => 'Pyton dev',
+    ],
+    [
+      'title' => 'Devops',
+    ]
+  ]
+?>
+
+<?php
+  echo $miarreglo [0][descripcion];
+?>
+
+Entonces lo que va a imprimir es <<-- This is an awesome jop!!! -->>.
+
+

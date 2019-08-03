@@ -1,0 +1,20 @@
+Expreciones regulares.
+
+
+El caracter '.' es un caracter universal para señalar cualquier caracter.
+Por ejemplo '. ' es encuentrame todos los caracteres con un espacio despue.
+'\d' hace encontrar todos los digitos, nos los caracteres que no son números.
+'\d\d\d' según lo anterior, entonces esta forma de escribir sirve para buscar tre digitos.
+'\w' : nos permite seleccionar entre caracteres letras o números, pero no ':' o '.' o espacios, entro otros símbolos que no son letras in números. O tampoco el '\'. No se seleccionan. Tampoco el '@' ni el '+'. Ni parentesis '()' ni '[]'.
+
+'\s' : Permite hallar los espacios.
+
+El salto de línea tambien tien un caracter, pero no lo menciona.
+
+'\w\w\w\w' : Me permite por ejemplo hallar palabras con 4 caracteres entre digitos o letras.
+
+'[0-9]' Es equivalente a '\d' (según lo explicó el profesor es escribir una clase) por que cuando está en corchetes se está buscando, buscame todos los dígitos desde el '0' al '9'. Pero según esto yo puedo buscar solo caracteres que van desde el séis (6) al (9). Tambien se puede buscar de la 'a' a la 'z', '[a-z]'.
+
+Tambien se puede seleccionar una opción que hace que sea estricto entre mayusculas y minúsculas, no se logró anotar es una opcion 'Mach case'. Si estamos con 'Mach case' se puede ponerl '[a-zA-Z0-9]' o cual se parece a la '\w'. '[a-zA-Z0-9_]' Con el guión bajo se puede hallar caracteres incluidos el guion bajo. '[a-fA-f0-9_\.]' En esta expreción o clase se pueden seleccionar los caracteres de detras desde 'a' a 'f' ya sean tanto mayusculas o no. Además todos los números, y ademas el caracter punto '.', cuando se le coloca el '\' permite escapar al caracter, no se selecciona cualquier caracter como se hace con la clase operadora '.' capaz de seleccionar cualquier caracter, sinó que cuando se le coloca el diagonal '\' se permite espacar y seleccionar el caracter punto '.' específico.
+
+H

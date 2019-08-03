@@ -1,0 +1,90 @@
+En este archivo se va a indicar la identidad de la marca farol.
+
+
+El por que del logo. 
+
+El por que de la marca. 
+De los colores corporativos.
+Como van a ser las aplicaciónes en las distintas posibilidades habiertas a la marca.
+
+_____________________________________________________________________________
+Aprovecho aquí tambien para hacer o escribir sobre la página web de Farol
+
+Farol Publicidad - Merchandansig.
+
+Es una página web que vende productos publicitarios, como, banners, viniles, targetas de precentación, volantes, letreros luminosos, trabajo en acrilico. Diseño gráfico entre otros.
+
+El stand está en la misma dirección de Wilson del señor de Fermin Huacre.
+
+Luego la estrategia de posicinamiento está en posicionamient seo. En posicionarme con las palabras claves de.
+
+Banners en wilson.
+Viniles en wilson.
+Tarjetas de presentación 
+Banners
+Letreros con marco de madera.
+Diseño gráfico
+Adeshivos.
+
+
+Fraces enganchadoras par todos los productos.
+
+Tienes una tienda y quieres que la gente noté lo que estás vendiendo.
+
+Quieres decorar tu negocio y pegar imágenes en las paredes o en alguna superficie, tenemos lo que necesitas, vinil adesivo. Puedes colocarlo en cualquier lugar. 
+s/ 35, el metro lineal que es 1.48 mt de ancho por 1 metro de largo. Puedes allí colocar la imágen que tu desees. Si nó tienes un diseño en mente, puedes contactarnos que con gusto podemos hacer el díceño.
+
+Faltan tarjetas de presentación en tu negocio.
+Escríbenos, vendemos tarjetas de precentación de al mejor precio. 
+
+Desesas colocar viniles adesivos en tus pareces y no quieres que te salgan globos a arrugas, escribenos, que podemos pegar los viniles hasta por  15 soles. 
+
+Deseas banners, nosotros te lo hacemos. desde 14 soles el metro cuadrado, la imágen que desees, nosotros lo hacemos.
+
+Deseas hacer cajas para tus productos, escribenos.
+
+Quieres marcos de madera para tus bannes, escribenos, nosotros lo hacemos.
+
+Deseas un diseño gráfíco, escribenos, nosotros te lo hacemos.
+
+Necesitas una página web, simple sin mucho diceño y complicación, y que tu puedas administrar para poder colocar tus videos, blog entre otras cosas, nosotros te ayudamos. Usanto wordpres, te enceñaremos a comprar tu hosting y dominio para que no tengas que acudir a un programador para que te ayude. Usaremos wordpres.
+
+
+La página web dete ser similar a una tienda virtual. En la página de inicio debe ir el nombre y la descripcion de lo que hacemos.
+
+Farol Publicidad. 
+
+
+Nos dedicamos a la venta de productos gráficos. Y hacemos diseño gráfico conforme a esos requerimientos.
+
+Trabajamos con:
+Software: Adobe Ilustrator, Photoshop, Corel Draw, Wordpress.
+
+Materiales: 
+Couche 115g, 150g, 300g, 350g.
+Banner gruesoi y delgado.
+Vinil chino.
+Vinil arclac.
+Folcote.
+
+
+
+Contactanos:
+
+Dirección de oficina:
+Página web:
+Correo electrónico:
+Whatsapp:
+Facebook:
+Instagram:
+Twiter:
+Youtube:
+Teléfono:
+Etc, etc:
+
+
+
+
+Para la página web, lo que hay que hacer o de lo que me voy a valer es de border-radius y flexbox. 
+
+Farol publicidad.

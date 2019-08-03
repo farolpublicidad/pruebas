@@ -1,0 +1,20 @@
+You_Comenta 
+
+Es un proyecto que consiste en hacer una aplicación donde se pueda hacer comentarios a videos de youtube sin que estos se guarden en Youtube, sino en una cuenta de esta página de youtube, y esto se hace con la intención de que se pueda meditar mas sobre un video en internet.
+
+Para realizar este proyecto se requiere un frontend, ya se sabe en html, css, y javascritp, de backend tengo que usar un servidor en Express y nodejs para usar javascript en el backend, y una base de datos Mysql. 
+
+La base de datos va almacenar:
+El correo electronico
+La contraceña
+Las notas de el alumno.
+
+
+En las notas se pueden subrayar algunas palabras y hacer enlaces para otras notas.
+
+Tenemos que crear un arcvhivo html, otro Css y otro de javascritp para el frontend.
+
+El servidor debe hacerce en un servidor gratuito en AWS, pero me pregunto en que dominio voy a alojar en ese servidor, me pregunto si aún tendré algún dominio en Namecheap.
+
+
+La contraseña debe ser enviada por el protocolo post.

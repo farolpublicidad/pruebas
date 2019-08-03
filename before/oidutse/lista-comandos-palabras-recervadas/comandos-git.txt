@@ -1,0 +1,92 @@
+Comandos utiles de la terminal.
+_________________________________________________________________________________________________________________________________________________
+
+Listar u ordenar archivos en linux
+El comando para listar en linux es
+
+ls
+Luego, existen muchas variantes, por ejemplo:
+
+Ordena por fecha de creación/modificación de forma descendente
+ls -lt
+Ordena por fecha de creación/modificación de forma ascendente
+ls -ltr
+ordenar por tamaño y muestra desde los más grandes hasta los mas pequeños
+ls -lsh --sort=size
+Ordena por tamaño y muestra primero los más pequeños y al final de la lista los mas grandes
+ls -lsh --sort=size -r
+Ojo: El parámetro -r para es el que invierte todo, y –sort y quien le da la orden para el tipo de orden que queremos.
+
+Otras opciones de Sort
+Más opciones para el sort sacadas directamente del man en linux:
+
+-- sort=WORD
+extension -X, none -U, size -S, time -t, version -v, status -c,
+time -t, atime -u, access -u, use -u
+
+size: Seleccionará por tamaños
+__________________________________________________________________________________________________________________________________________________
+
+Terminal:
+
+Ls: listar un elemento
+Ls -lha listar elementos de manera humana.
+Mkdir: crear un directorio.
+Touch: crear un archivo.
+cd - moverce dentro de un directorio ya sea . o ..
+pwd: para saber en qué directorio estás.
+vim “nombre de archivo”. entrar a un editor de texto plano vim.
+cp "nombre-del-archivo" "direcctorio-de-destino-del-archivo/ siempre se termina con un slash": copiar un archivo
+Este es un archivo para escribir los comandos. Es de linux.
+mv "Nombre de destino de archivo". Mover o renombrar archivo o direcctorio.
+'ls -lha ..' : permite listar el direccotio anterior a donde se está, con este comando al parecer se puede listar cualquier dirección que se ponga.
+'pushd' : cuando se entra a un directorio a travez de este comando en vez de 'cd' se puede volver al direcctorio anterior con el comando 'popd
+'popd' : Permite volver al directorio de donde se salío haciendo 'pushd'.
+'open' : Con este comando se puede abrir un archivo, con el software que le sea predeterminado.
+'more' : permite ver las primeras líneas de un documento.
+'cat' : imprime todo el documento en la terminal, y en todo caso permite ver las ultimas líneas del archivo.
+'cat > peliculas.csv' : 
+
+sudo su: entrar en modo de super usuario
+sudo apt-get update: permite actualizar el sistema operativo con los nuevos repositorios.
+sudo apt-get upgrade:  actualiza a la nueva version de las aplicaciónes.
+sudo apt-get install git: instalar git.
+
+
+Git:
+Git init: crear un respositorio
+
+Git add “nombre de archivo” o “. para enviar todo”: Enviar archivos a stegen
+Git commit: Enviar mi archivo a la base de datos de git.
+Git --global: Hacer un cambio global.
+Git config: para configurar.
+git pull origin master: trae los últimos cambios de la rama master de github. Y lo funciona con la rama master.
+git remote add origin “http:github.io direccione de git hub”
+git remote -v: sirve para ver si ya estamos en la capacidad de traer cosas desde un repositorio remoto. Lo cual es con “fetch” (traer cosas) o con “push” (enviar cosas).
+git pull origin master: permite traer cosas del repositorio remoto sobre todo para poder conectar el repositorio remoto con en repositorio actual.
+git pull origin master --allow-unrelated-histories: permite fusionar ramas distintas dentro de git, es importante cuando se trata de traer un repositorio remoto a tu repositorio.
+
+git push origin master: 
+Envía todos los datos a GitHub.
+git pull origin master: 
+permite traer cosas del repositorio remoto sobre todo para poder conectar el repositorio remoto con en repositorio actual..
+git config -l: permite ver la configuración dentro del computador.
+git config --global user.name “nombre de usuario”
+git config --global user.email “email@delusuario.com”
+git show nombre-de-archivo: muestra los cambios que han habido dentro del archivo.
+git diff comitA comitB
+git checkout + ID del commit permite viajar en el tiempo. Y tambien cambiar de ramas.
+git commit -am: Incorpora los cambios sin pasar por git add.
+git branch “nombre-de-la-rama”: crea una nueva rama. Se hace de lugar donde está el comít al que quiere hacerse una rama. Si se le pone sin argumento muestra las ramas disponibles.
+git merge “nombre de las ramas”: Fusiona las ramas
+git log: ver el historial de los commits.
+Con git status tambien se puede ver el nombre de la rama. 
+
+git checkout “nombre-de-la-rama”: Sirve para cambiar de rama.
+
+
+
+git clone: 
+
+Otros: Para poder recortar una parte de la pantalla, al menos en linux, se preciona 'shift + Impr Pant'
+

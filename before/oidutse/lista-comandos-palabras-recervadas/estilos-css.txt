@@ -1,0 +1,70 @@
+/** {
+  width: tamaño;
+  height: tamaño;
+  padding: 10px;
+  padding-top: 10px;
+  padding-right: 13px;
+  padding-left: 15px;
+  padding-bottom: 5px;
+  padding: 10px 13px 5px 15px;
+  margin: 10px;
+  margin-top: 10px;
+  margin-right: 13px;
+  margin-left: 15px;
+  margin-bottom: 5px;
+  margin: 10px 13px 5px 15px;
+  border: 2px solid red;
+}*/
+
+Hay otros estilos
+font-family: Es para decir que tipografía va a ser el trabajo
+margin:
+border: 5px solid green; Es para dar un borde a una caja.
+padding:
+width:
+border-radius: 5px; Es para dar border redondeados a una caja.
+height:
+margin-bottom
+color
+background
+background-color
+float:
+position:
+padding-left:
+margin-left:
+display:
+right:
+background-image:
+top:
+
+'display: flex;' es un estilo que sirve para poner cosas que estan ordenadas verticalmente, ahora se ordena horizontalmente.
+'color: gray' : Da color al texto dentro de la etiqueta, en este caso es el color gris.
+'background: orange;' : Da color a la caja dentro de la etiqueta, en este caso le dió el color naranja.
+'background-color: aqua;' : Parece que tambien dá estilos, aunqué creo que es mas fuerte que solo 'background' y parece que si se le aplica a la etiqueta 'body' en realidad se le aplica a toda la pantalla del sitio web.
+font-family: 'Allerta', sans-serif;' : Incerta la tipografía y si caracteristica, antes hay que hacer un enlace en la etiqueta 'html' del 'head'.
+
+Estiquetas html___
+
+title
+nav
+canvas
+p
+style
+div
+footer
+ul
+ol
+img
+figure
+
+
+Atributos____
+src
+linck
+stylesheet
+url
+id
+class
+
+
+flex.

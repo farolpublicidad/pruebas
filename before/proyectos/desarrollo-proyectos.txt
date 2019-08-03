@@ -1,0 +1,33 @@
+Aquí se va a anotar los proyectos de software
+
+Desarrollar una app web de diseño gráfico similar a gravit designer______
+
+La app tiene por objetivo poder recortar imagenes usando la pluma, o tambien se puede usar una lapiz, en este caso el lapiz puede que se autosuavice para que no se vea raro.
+
+
+Desarrollo de base de datos_____
+Hacer una especie de acces online, para poder guardar cosas pero que a la vez tenga relaciones, y que pueda usarce formularios similar a los formularios de Google forms, que se puedan incrustar en otras paginas web, y que sean mas responsiv que los formularios de google forms. Estos formularios tambien podrían ser un plugin en wordpres para que se instalen formularios en wordpres y que en este wordpres o en una página aparte se pueda ver el resultado de los formularios como si fuera un acces online. Ademas que esto sirva para que las tiendas o bodeguidas puedan hacer refistros sin aprender de bases de datos o con solo conocimientos basicos de exel.
+
+Desarrollar videojuego similar a counter o bomberman o fornite, online multijugador____
+
+Estos videojuegos serán multijugador y se puede crear cuentas, y disparar, y pelear con otros jugadores, que para entrar lo unico que necesites sea tu correo y contraceña y luego entras y si quieres haces clic en jugar random, un boton y inmediatamente entres a jugar con otros jugadores como si fuera slider io. Algo super comodo. Donde todos deben matarce, similar a bomberman.
+Para mi videojuego tengo que usar sockets que es muy avanzado, que lo que hace es crear una conexión directa con el servidor. Todos los juegos lo usan.
+
+Página web similar a google keep o a evernote pero que su principal caracteristica es que permita hacer anotaciones en videos de youtube._________
+
+
+Pagina web o aplicación que permita hacer flujogramas y flujogramas dentro de flujogramas______
+
+Aplicación que permita escribir dentro de un texto.______________________-
+Es decir escribir un texto y seleccionar ese texto y poner la opción de crear un texto dentro y que a su vez ese texto se convienta como en una nota independiente que se pueda clasificar con etiquetas, pero luego se pueda regresar a lo anterior. Entoces yo escribo como el indice de algo, y luego selecciono el texto y lo convierto como en un enlace o en un boton clicable donde se abre puedo escribir allí para como ampliar información. Luego cada una de esas notas son notas separadas, y se pueden indecsar en otros textos, Pero todas estas notas siempre permanecen en el mismo archivo de manera que no se pierden ninguna de estas notas, y así se va creando un armazon de conocimientos. Una estructura de conocimientos
+
+
+Crear una app web que coja una imágen y la divida en cuadriculas__________________________________________________________
+Esto con la intención de que una persona pueda luego dibujar a mano, en papel según lo indica las cuadriculas en la pantalla o las cuadriculas dibujadas en la imágen. Ademas esto no debe dañar la imágen.
+
+Crear Aplicación o página web o extención donde yo escriba en español e inmediatamente lo traduzca al ingles o al idioma que deseé y haga la busqueda___________________________________________
+Esto ya sea en los buscadores de Google, o Youtube, o en cualquier otro buscador que tenga una caja de texto, es decir me permite escribir he inmediatamete se traduzca, como hubiera escrito en el otro idioma.
+
+
+Crear aplicación o página web que permita, cuando estoy escribiendo añadir comentarios____________________________________________________________________
+Pero no comentarios tal como se hace en el google documentos, sinó por ejemplo de otro color, pero que se pueda acceder o se pueda cambiar de modo con un solo atajo. Esto por ejemplo tenemos una plantilla, entonces, estoy escribiendo, y en ese momento decido añadir el comentario, solo preciono el atajo y el texto cambia de color y ya lo que vaya escribiendo es un comentario. Luego sigo escribiendo, y ya preciono el atajo y salgo del modo comentario. Y con otro atajo, elimino todo lo que son comentarios, o mejor dicho los oculto. Y puede haber distintos tipos de comentarios como por ejemplo con varios colores, o comentarios que sirvan para varias cosas o para otras cosas. 

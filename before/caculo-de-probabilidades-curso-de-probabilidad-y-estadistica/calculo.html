@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+<!--
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+-->
+    <title>Calculo de probabilidades</title>
+    <!--En el calculo de probabilidades se usa la regla de Laplase, que es, o se calcula la probabilidad con 'el número de casos faborablees' entre (/) 'el númer de casos posibless' esto nos dá como resultado un decimal mayor que '0' y menor que '1', el cual hay que multiplicar por 100 para saber el porcentaje de la probabilidad.
+    -->
+    <link rel="sylesheet" type="calculo.css" />
+</head>
+<body>
+    <h1>Calcula la probabilidad de un suceso usando la regla se Laplace</h1>
+    <h3>Cantidad de sucesos favorables</h3>
+    <input type="text" id="favorables" />
+    <h3>Cantidad de sucesos posibles</h3>
+    <input type="text" id="posibles" /><br /><br />
+    <input type="button" id="boton" value="La probabilidad es:" />
+    <script src="calculo3.js"></script>
+    <p id="resultado_escribir"></p>
+</body>
+</html>

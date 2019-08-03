@@ -1,0 +1,172 @@
+En  este archivo tecnicas de aprendizaje.
+
+
+Que pasa si hago esto. A este objeto. No importa si rompo el objeto, pero que pasa si hago esto.
+
+Un buen viajero no es quien mas mochileó el mundo, sino quien tienes ganas de viajar.
+
+Si tu no te comes tu propia comida, tu no sabes si es buena.
+
+Es como ustedes son en sus peores momentos como realmente son.
+
+No se pueden negociar los despidos.
+
+Para que la economía de un país vaya bien, los ciudadanos deben tener alto entrenamiento en economía y negocios, y una disciplina militar, y una forma de estudio de manera consentrada, como si se estubiera en un monasterio.
+
+Labar ropa, bañarme, cambiarme, cocinar, barrer, labarme los dientes, es mas importante que estudiar, trabajar, conversar con otras personas, ganar dinero, dirigir una empresa, ganar tiempo, hacer una conferencia, dirijir un país, firmar la paz mundial. Esto por que para lograr los segundo, se necesita lo primero. Yo perdí beca 18 por que no tenía ropa labada, y no me ponía a labar mi ropa, por que me ponía estudiar desesperadamente, por que creía que ganaba tiempo, pero a la hora de ír a estudiar no podía por que no tenía ropa labada.
+
+Tambien no llegaba temprano, por que no me animaba a cambiarme y bañarme, y me entretenía en cosas 
+
+
+Veo o parece que aprender de manera online. No es tan facil como parece, por el la concentración es mucho mas dificil, pero tenemos un arma que no puede fallar, eso espero, las preguntas. Las preguntas es como lanzar una piedra. Las preguntas son mas importantes que las respuestas.
+
+Aristoteles dijo que la fuente del conocimiento está en el asombro, Decartes dijo que está en la duda y otro filosofo posterior en las situaciones límite.
+
+El método de estudio CRILPRARI. Concentración, revisión, interrogación, lectura, producción, repaso, autoevaluación, refuerzo, integración. Parece que de este metodo, lo único que estoy usando es el de lectura, tal vez esto hace muy lento mi aprendizaje.
+
+Hay el otro metodo del método dialéctico, que consiste en que primero se hace una afirmación, luego una negación, luego una superación de la negación de la afirmación y de la negación que a la vez se convierte en afirmación.
+
+Hay el otro método llamado Quaestio. Que se trata de debates. Primero se pone la quaestio, luego disputatio, responsio, vera solutio. QUe quiere decir que primero se hace una pregunta, '¿Esto es ...?' '¿Es ..?', esto se hace de manera clara y consisa. Luego se apuntan las respuestas que le han dado las distintas personas a lo largo del diempo. Tal persona dice tal, esta tra persona responde así, esta otra persona responde así, mas esta otra persona responde así, mas todavía ... . Y así se van respondiendo. Luego sigué el 'responsio' dondé el maestro da su respuesta, razonada y justificada con argumentos. Y por último sigue el vera solutio, donde el maestro da la respuesta a todas las soluciones erroneas que se dieron en la disputatio, y explica el origen de su error.
+
+Tambien es posible que otra manera de ir razonando es a travez de escribir tal como se escribian los catesismos antes, es decir primero se escribe una pregunta y luego se responde la pregunda, o mejor dicho la respuesta a la pregunta es el consepto que se trataba de explicar. Luego, tengo que escribir mucho así por que así me voy volviendo experto en hacer preguntas, espero. Esto con el objetivo de tener una mente mas crítica y para poder cuestionar a otras personas de manera mas aguda, y descubrir la verdad.
+
+Parece que un ejemplo de como debe ser mi comportamiento es el como se comportó el padre exorsista Antonio Fortea con Risto, y tambien en como se comportó la precentadora del canal estatal de china Liu Xin vs trish regan, tener la actitud de Lui Xin.
+
+Es posible que este texto se conbierta en mi cerebro, es posible. Pero vayamos avanzando en esto. Las cosas tienen que seguir avanzando.
+
+Las cosas avanzan cuando se hacen preguntas. 
+
+Como por ejemplo, ¿Que es lo que tengo que hacer en este momento?
+
+¿Cuales son los conocimientos que tengo que estar adquiriendo?¿Como puedo ver el trabajo de otras personas y así poder trabajar? Como puedo ver el github de otra persona? Si github es la red social de programadores tengo que dominarla al revez y al derecho. Pero como funciona?
+
+Por lo menos tengo que decir que me quedo en la clase 10 del curso de Node en Platzi. Ahora tengo el problema de que como que siento que ya no tengo  el conocimiento necesario para seguir avanzando.
+
+Pero que es lo que ya he aprendido de node. 
+
+Pues que es una tecnología que nos permite ejecutar codigo javascritp fuera del navegador. Ademas que se puede instalar desde la terminal buscando su codigo en github, haciendo una busqueda en google con 'nvm' la cual no dá una dirección de github. No obstante si no es posible, puedo usar el bach de instalación de 'nvm' que parece que se indica en el mismo sitio de github. En ese lugar nos dá un comando que nos permite instalar Node. Tambien se nos enceño instar ubuntu en una maquina virtual para instalar node. Y entramos en una parte compleja por que el trabajo que se hace aquí involucra conocimiento de javascript y conocimiento al parecer profundo de github.
+
+¿Que es merge en el mundo de linux o en el mundo de git? Pero ¿que es lo que hace? fuciona ramas, pero ¿en serio se pueden fucionar ramas distintas? y si se puede fucionar ramas distintas ¿como sabe el software, donde tiene que escribir y por que lo tiene que escribir allí? que tal si borre esa parte donde se debía escribir en la otra rama o mejor aún le cambíe de lugar, entonces si le cambié de lugar, que parametros utiliza git para escribir donde debe, y como nos salvamos de que git escriba donde quiere y rompa el codigo, por que esto es muy complejo. Nó. Toma el ultimo caracter de donde se cambiaron las cosas?
+
+Aúnque tal vez laa forma de lograrlo es saber en que linea tiene que escribir, claro las cosas donde escribe es en las lineas donde debe escribir, y escribe por líneas. Bueno pero para aprenderlo se tiene mas que teorízar que pranticas iré como ha ciegas hasta que iré aprendiendo, algo que parece que mi cabeza no es capaz de concebir.
+
+Qué pensaré, que cosas haré, tengo el proyecto de primer-repositorio master, en él va a ser un landing page del conjunto de herramientas que conozco. Conforme a la marca Farol, debe tener muchas caracteristicas de la marca farol. Para ello debemos tambien crear un concepto para la marca farol y eso lo haré en otros sitio.
+
+En todo caso hay que habrir un txt en la carpeta de proyecto y allí escribir los lineamientos o la personalidad que va a tener la marca farol
+En todo caso hay que habrir un txt en la carpeta de proyecto y allí escribir los lineamientos o la personalidad que va a tener la marca farol.. 
+
+Me doy cuenta de que la marca no es la identidad de una organización, es la expreción de una vicion de ver el mundo, de una personalidad. Que puede accidentalmente unirse a actividades economicas concretas, pero que no se cierra allí, sino que busca fines mas altos, inalcanzables para así poder siempre ofrecer siempre más. Y que fiel a su vision y mision, puede con el correr del tiempo dedicarce a otras actividades dejando las primeras y luego seguír cambiando, por que el mundo, las condiciones y contextos van cambiando, pero en ese mundo cambiante, la marca no cambia, nunca cambia, se mantiene fiel a sus orígenes a sus objetivos que buscan fines más altos, que nunca serán alcanzados con el pasar del tíempo, llamece estos fines idealistas, o muy por encima de lo que se puede llamar comunmente, pero que en la busqueda de esos objetivos lleva dentro de si unos valores, y una vicion, y una forma de usar los medios, para lograr esos fines, muy propia de esa marca (los medios contienen dentro de sí el fín) y con el pasar del tiempo, no es la marca va cambiando, sinó que se va desplegando, que va siendo explotada sis distintas facetas, que se va desarrollando, y que se va asercando a su fín, cada vez más, pero que no cambia.
+
+El método de las notas de cornell, consiste en apuntar el tema, el título o la idea principal en la parte de arriva de la hoja. En la parte de la izquieda se ponen las palabras que nos se concen y las preguntas, está parte a la derecha es pequeña, luego en la parte de la izquierda, mas grande se apuntan los conceptos y de lo que trata el tema. Luego en la parte de abajo se apúnta la idea principal en una sola oración.
+
+¿Como concentrarce de manera profunda en un solo tema? 
+
+Como enfocar tu tema en algo.
+
+Al parecer algunas cosas que hacen que se consiga concentración mucha son los juegos, Pero como se consigue gamificar algo. Pues lo que se trata es de reesolver un reto y hacerlo de manera creativa.
+
+Eso parece. 
+
+No entiendo ¿Por que memorizamos unas cosas y otras no?
+
+O mejor, como entender aquello de que se está tratando de entender.
+
+En la filosofía parace que no hay respuestas hechas, cada quien se pone a pensar, y se pueden ver las limitaciónes de los distintos sistemas de pensamiento y te permite razonar sobre la filosofía. 
+
+No obstante en las demas ciencias, las respuestas ya están hechas, y entonces como o por que no hay como preguntar, por qué.
+
+Pero entonces si parece que para aprender algo, hay que recorrer el camino que lleva a la conclusión que se defiende, parece que hay que primero saber cual es el estado de las cosas, como está el conocimento en el área en especifico que se quiere entender. Luego puede que sepamos los enunciados, pero tal vez no tanto los conceptos, los cuales son los mas importantes, entonces, luego se puede preguntar a que se refiere este enunciado, y como puedo tener un ejemplo a modo de historia o anegdota, que lo exponga o explique. es decir una comparación con algo que yo ya conosca. Terminado esto, tengo que averiguar como se llegó a esta conclución y no a otra, cuando lo mas facil es que pudo haberce llegado a cualquier otra conclución.
+
+Por último, para aprender algo, hay que explicarlo y ahí tendríamos un problema, por que como explicar a una persona si no se puede disponer de una. Entonces tal vez la respuesta esté en escribir un libro las explicaciónes que se vengan a la mente.
+
+
+Hay que saber interpretar la intención del autor con dicho texto.
+ 
+Me parece muy interesante comparar entre dos cosas distintas para encontrar similitudes, y entre dos cosas iguales para encontrar diferencias.
+
+Los temas que tengo que aprender los tengo que hacer a modo de discurso escrito en algo como en este texto desde la teminal. 
+
+Ademas si se tiene un buen metodo de estudio supongo que puedo estudiar sin material de estudio, sino con el materíal que ya tengo en la cabeza y definiendo cosas. Luego con la sola especulacíon ir sacando concluciones que despues puedo solo comparar con la realidad. 
+
+Para saber o concer algo tambien hay que saber cuales son los atributos del concepto a estudiar y tambien cuales son sus funciones.
+'
+
+No hay que preguntar que nos puedea aportar nuestro trabajo, sino que puedo aportar al mundo con nuestro trabajo. No se trata de seguir nuestra pasión para conseguir nuestro trabajo. Sino Apacionarnos por nuestro trabajo. ¿Que es lo que hace que un trabajo sea genial? La creatividad, el impacto y el control. https://www.youtube.com/watch?v=K01H25tKHwc  //  https://youtu.be/K01H25tKHwc.
+
+Tenemos que ser tan buenos que no puedan ignorarte.
+
+Siguiendo la escuela Austriaca, lo que se tiene que hacer, o en todo caso, si nos dá la posibilidad de avanzar en las ventas de un producto determinado. Entonces lo que hay que hacer no es ver de donde va a sacar el dinero las personas, sinó ver en una industria como le está yendo, como están las tendencias del negocios, si el negocio está a la alza o la la baja y si la demanda es elastica o nó. Y si es posible que aumente o nó. Luego hacer las cosas mejor que lo que hacen las empresas actuales y mejorar en dar una mejor experiencia al cliente. En el negocio de restaurantes, tal vez se debería pensar en que ya todas las personas tienen los alimentos que necesitan. Pues si no lo tendrían estarían muertos, que el estado actual es el mas optimo, ya que se fué depurando en todo el tiempo que lleva la humanidad habitando esta tierra, y que el servicio actual debería ser del mejor debido a que se logró por selección natural según Darwin, y no es así.
+
+Lass personas sin impredecibles, y en todo caso gastan por elementos que antes de realizarce tienen un efecto impredecible en el mercado. Ademas en el mercado, como siempre, cuando se sabe algo, o cuando algo es del saber popular, lo que pasa es que ya es demaciado tarde.
+
+
+Al parecer el exito se puede copiar.
+
+
+En el caso de el hacer la app de youComenta, como le hago, pues tengo un problema, 
+
+
+Parece que una buena pasarela de pago puede ser Culqi (https://www.culqi.com/)(https://youtu.be/nFw8lF80SAI)
+
+Siempre elijo a una persona peresosa para hacer un trabajo dificil. Por que probablemente encontrará una manera facil de llevarlo a cabo. Bill gates, según el video de la banana rancia. https://youtu.be/u5Mryy0tN3s.
+
+Para aprender lo que tengo que buscar no es saber rápido, sinó profundo. Cuando trato de ver un video para aprender, no debo tratar de acelerar el video y tratar de acabarlo lo mas rápido posible, sinó que tengo que tratar de conocer lo mas profundo posible, algó así como hacen los teólogos con la biblia, que la escudriñan al maximo. Así debo escudriñar al maximo cada, palabra o párrafo de los videos de los cursos de Platzi. Es esta la forma en como puedo sacar mucha información de este contenido tan comprimido de conocimiento. Entender a profundidad todo lo que dicen. Que es lo  que están diciendo, por que lo estan diciendo, que es lo que comporta aquellos que estan diciendo.
+
+Me doy cuenta que ya no me acerco a la religion católica por que me siento culpable, por que he pecado mucho y no quiero salir de mi pecado, y por que no quiero sufrir, el demonio me tiene en sus garras. No puedo salir del pecado. Y la medicina es demaciada amarga. Y el miedo a volver a caer. Y todo, la verguenza de haber caído y darme cuenta que fuí y he sido soberbio, el saber que he fallado y no querer aceptarlo. Me creía invencible, me hice muchos enemigos, luego resulta que era una basura y ahora, me encierro por que no quiero que se burlen de mí. Tengo terror a que se burlen de mí. Terror. Tengo terror a que las personas que conozco se decepcionen de mí. Por las cosas que he hecho. Es terrible. Como pude haber caido. 
+
+
+Cosas que buscar en ingles.
+How to get a job in San Francisco.
+how to get remote work
+how to get clients in remote work in countries that pay well.
+
+
+En las historias hay una cosa o parte que es normal, que es como suceden las cosas, pero en la historia luego se rompe esa mormalidad. 
+
+En una historia por ejemplo de desastres, pasan muchas cosas, pero para contarlos, luego se va el personaje a un lugar calmo, donde ocurren las cosas normales, todo se mantiene calmo, hay monotonía, y todo es tranquilo, y hasta hay chistes tontos, las personas pasan cosas, hasta tranquilas y hasta ovias y aburridas, pero eso es necesario, para que luego cuando pase o se cambie eso, entonces, a uno le choque, pero si esto funcionaba así. Era normal, pasaban las cosas bien. Si solo pasaran desastres, mas desastres, no se llega a empatizar con los personajes.
+
+
+Para derrotar la flojera._________________________________________________________________________
+La mejor manera es un cambio de actidud. Como definiré la actitud, pues lo defino como un estado de las emociones y la voluntasd de una persóna. Como adoptar una forma de ver el mundo y una personalidad, una emoción. La persona entonces toma una actitud, sin esa actitud es imposible, realizar algo. Si estamos en una actitud de flojera, entonces, pues por mas que sucedan cosas impresionantes, no cambiaremos de actitud, por que la actitud es voluntaria. Así me encuentre con el amor de mi vida, y ella me pida por nuestro amor qpor mas que sucedan cosas impresionantes, no cambiaremos de actitud, por que la actitud es voluntaria. Así me encuentre con el amor de mi vida, y ella me pida por nuestro amor que 
+
+Para estudiar_________________________________________________________________________________________--
+Lo primero que tengo que hacer es concentrarme. Para concentrarme, lo que tengo que hacer es ver un punto fijo, sin moverme, e ir despejando mi mente durante 1 minuto, 5 minutos o 30 minutos.
+
+¿Quien se sergio?________________________________________________________________________________No lo sé, pero ese no noy yó. No puedo serlo, yo soy alguien diferente, sergio, es mi discipulo. Al que tengo que entrenar. Tengo que duplicar mi personalidad, por que no puedo ser yo Sergio. Si lo soy estoy perdido. Yo soy inteligente, habil y visionario. Soy capaz de distinguir muchas cosas y ademas creo que soy sutil, me gusta leer, me gusta escribir. Y quiero ser mejor, quiero aprender. Pero sergio es un flojo, con mala higiene, vicioso, debil, cobarde, traidor. Me traisiona a mí a todo momento.
+
+
+Tengo que investigar sobre los sistemas ERP para las empresas. Como incertar un video de youtube y ademas tarle un tamaño en mi código javascript del lado del frontend.
+
+Un objeto es una instancia de una clase.
+
+Tengo que crear un software que permita escribir un libro en la forma en que se hacen mapas mentales._________________________________________________Se puede escribir una nota, esta nota será la que está en el centro, luego empieza el mapa mental. La nota tendrá un título, y ese título es lo que se mostrará en el mapa mental. y luego un contenido, el cual estará oculto, pero si la nota tiene un contenido, se colocará una buena blanca dentro de un circulo verde al costado del circulo. Ademas cuando se créa una nota, lo que se escriba, se pondrá en el titulo, pero si resulta que se pasa de el límite de caracteres que admite el título entonces las palabras que se salgan del límite ya pasan a ser parte del contenido, ademas, una persona puede escribir el título y luego, ya terminó el título, pero aún le queda espacio para serguír escribiendo, entonces lo que hace es dar un enter y lo siguiente que vaya escribiendo se escribe en el contenido.
+
+Ádemas debe poderce cuando de está escribiendo un contendido, poder citarce otro contenido, y para esto se debe precionar un boton que hace que aparezca en el lugar donde está el cursor un buscador de los títulos de las notas, pues los títulos de las notas son a la vez el id de las notas. Y bueno, una vez que lo encuentran dan enter y tienen la cita, que se cambia de color, para que demuestre que es una nota. Entonces, cuando alguien haga clic en ese texto subrayado se vaya directamente a la nota en cuestión, como será una app web, se abrirá en otro tab del navegador. Luego. Tambien en las notas, se debe permitir hacer notas a pié de página, las cuales pues cuando se está escribiendo, debe permitirce hacer clic en un boton , e inmediatamente, aparece un boton con un número dentro, este boton aparece en el texto, en el lugar donde está el cursor. Y pues dentro del boton está un número, el cual al hacerce clic, nos dirge a la parte de abajo donde esta la nota a pié de página, en la cual se podrá escribir comentarios sobre ese punto. y pues, ademas, se debe poder selecciónar una parte del texto que se está escribiendo en una nota, y pues se hace clic en un boton y ese texto inmediatamente se convierte el título y cuerpo de otra nota, la cual está citada. en esa parte, y se apre la nueva nota donde se puede escribir si se quiere o bien se le puede cerrar. y claro en el texto de la nota anterior pues solo aparece el título de la nota.
+
+No obstante tal vez en el lugar donde una nota es citada, aparezca dentro de un boton el título de la nota con una fechita al final del título
+donde si se hace clic, el contenido de la nota se imprime en el mismo sitio, como si fuerá parte de la nota que está citando, y como que tanto nota citada como nota que sita parece que son la misma, no obstante no se quita que el titulo de la nota citada esté dentro de un boton y que el texto que pertenece a la nota citada se muestre de un color distinto, ademas que  tambien se puede escribir en al nota citada y en la nota que cita, pues se portan como si fuera una sola nota.
+
+Ademas como mapa mental de la parte que una nota es citada es la primera nota, luego las siguientes notas se jalan de allí esto es el el modo mapa mental, no en el modo de nota, o libreta de texto. En el modo de mapa mental pues se jalan de esta nota principal las notas secundarias o dependientes, y pues estas notas son dependientes de la nota principal, tal como es una en un mapa mental normal. y pues ya está pero entonces lo que se hace es conseguír un sitema de niveles, donde la nota principal está en el primer nivel y los siguientes en los siguientes niveles. Como un mapa mental o conceptual. Ademas en la forma en como vayan apareciendo las notas, irán apareciendo números diciendo quien es primero en tal nivel. Para que si se quiere imprimir todo como si fuera un solo texto entonces púes se impriman las notas primer según que nota está en primer nivel, luego, que nota está en segundo nivel, y de las notas que están en segundo nivel, quienes son las que están primero. Y así. Tenemos un texto extenzo y compacto. Si se escribe por ejemplo una novela, pues podemos escribir los temas por cápitulos, o por regiones, y por personajes. Y cosas así. Ademas los mapas mentales son una cosa y las notas otras. Despues de los mapas mentales, tal vez una nota puede pertenecer a varios mapas mentales, unos por ejemplo hablando de personajes, otros de lugares territoriales, otros de fechas historicas, otros de temas (peleas, temas de cocina, concursos) y así poder crear un univerzo grande. Ademas de eso tener analiticas de las notas, cuales son las mas grandes, y cuales las mas pequeñas, para así poder saber a cual nota (o personaje, o historia u otra cosa) le falta desarrollo. Ademas podría tener un sistema de permisos y ser multi usuario, y en una misma historia poder mucha gente colaborar, como si fuera un proyecto de software, y ademas cosas un autor crea una historia y otro otra historia, y luego las historias se entremezclan, y todos están en el mismo universo. 
+
+
+
+
+. Pero ademas y de otro color se pueden añadir entre notas líneas con flechas uniendo dos notas, y estas flechas son como los de un flujograma y aquí no está el tema de niveles, entonces tambien se pueden crear flujogramas.  Y estas flechas pueden tener mensajes en las flechas para poder saber que tipo de relación es la que está describiendo la flecha. Y pues alguna persona puede no saber como hacer las flechas y se confunda, entonces cuando haga clic (o doble clic) en la flecha inmediatamente aparezca una ventana con los controladores de la flecha o con las opciones y un pequeño mensaje explicanco la función de dicha herramienta. 
+
+
+Ademas las notas pueden verce por fuera similar a como es evernote. Y pues se trata de una app, que es como evernote, pero tiene funcionalidades de hacer mapas mentales o flujogramas con estaś notas y así se pueden organizar estas notas, y ademas de eso, dentro de una nota se puede incrustar otra nota. O se puede comentar una nota añadiendole otra nota dentro del mismo texto.
+
+Ademas en los mapas mentales, tambien algunas notas tendran por dentro, otros mapas mentales, o flujogramas. 
+
+Simplificando, tenemos un título de una nota que tiene notas dependientes, y estas notas a su vez otras dependientes, ademas estas notas pueden tener, texto aparte del título o tambien pueden tener mapas mentales o flujogramas por dentro. si se hace clic se puede uno encontrar con flujogramas, y cada nota puede tener flujogramas dentro, como si al entrar en una nota en realidad estamos habriendo un flujograma, ya así vamos creando sitemas de conocimiento, y de formas como crear contenido y organizar información.
+ 
+Bueno se créa una nota, de está nota solo es mostrado el titulo, y listo. Pero tambien 
+
+Ademas esta estructura de escribir en manera de mapa deve tener un sitema control de versiones, y estas versiones se hacen en 2 tipos, unos cambios de respaldo, y otros cambios de producción. Para que cuando haces un cambio minimo, que tal vez luego elimines no genere un monton de cambios o de versiones en el producto final, como por ejemplo en ploducción. Ademas de las notas sueltas que se puedan hace en el mapa mental y las notas de niveles. Debe hacer un texto final que se pueda leer con un indice, similar a un texto de ul libro en donde solo hay letras, pero que se pueda dibujar, (tal vez tambien graficos y videos por que no) o mejor dicho diseñar o hacer estilos como los de css. Y estos estilos pues hagan como el díseño de el texto. Pero serán diseño o mejor dicho sitemas de diseño. 
+
+Y pues Este texto será uno de respaldo y uno de producción, que será como el libro final. Que se puede imprimir.
+
+EN RESUMEN ESTE SOFTWARE DEBE PERMITIR AL ALUMNO ORDENAR SUS IDEAS.
+
+
+Parece que con la forma en que se hace la programación orientada a objetos, pueo crear un monton de personajes con caracteristicas únicas, para mis historias.

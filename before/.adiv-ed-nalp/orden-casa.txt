@@ -1,0 +1,24 @@
+Aquí se escribiran como se ordenarán las cosas en la habítación.
+
+Habitación_______________________________
+  Catre Metalico
+    Frasadas
+  Camarote de madera
+    Frasadas
+    Zapatos-debajo
+  Angulo-ranurado azul
+  Angulo ranurado plomo
+_
+Cocina____________________________________
+Baño_______________________________________
+  Jabon
+  Shampoo
+  Papel
+  Baldes
+Labadero_________________________________
+  Bolsa de basura
+Patio____________________________________
+  Tendedero para ropa
+  Labadora
+  Sillas
+

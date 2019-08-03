@@ -1,0 +1,12 @@
+En este archivo será la consolidación de todos mis conocimientos que tengo sobre htmls y CSS y javascript.
+
+Hola  bienvenidos al curso de programación basica donde se aprenderá temas sobre html, css y javascript.
+
+HTML
+CSS
+JAVASCRIPT
+
+HTML
+Es un archivo de marcado de hipertexto, lo que quiere decir que en este archivo se define la estructura de la información de una página web, se basa en el uso de etiquetas las cuales dan escructura al sitio web, y funcionar como contenedor o como indicadores de a que se va a hacer o aplicar o trabajar con los siguientes tecnologías llamadas 'CSS' o 'JAVASCRIPT'.
+
+

@@ -1,0 +1,9 @@
+En este texto se explica como funcionará el proyecto de flechas en el repositorio de primer-repositorio.
+
+En este sitio web se va a crear un sitio web que permita tener un landing page de las aplicaciónes que se vayan desarrollando en html, css y javascript, donde se vayan enlazando en estas cosas. 
+
+Como se dijo, se va a quí a tener todas las herramientas. 
+
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+Ahora tenemos un problema, la rama master no tiene los avances de la primera rama y es necesario hacer un merge, por que sinó va haber problemas. Pues mis avances no se ven reflejadas en mi rama master y por tanto no puedo verlos en web. Lo que voy ha hacer en este momento es hacer una carpeta donde ponga todos los documentos de la rama master y luego haga merge de los archivos de la primera rama con la rama master. 
